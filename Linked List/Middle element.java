@@ -46,5 +46,6 @@ public class Main {
             lst.insert(n);
         }
         lst.display();
+        lst.middle();
     }
 }
